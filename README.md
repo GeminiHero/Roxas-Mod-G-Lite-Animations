@@ -5,3 +5,5 @@ Designed for use with the OpenKH Mod Loader.
 
 ---
 Want some of the Roxas flavor with minimal visual impact? Lite Animations reduce further on Medium Animations, leaving only Roxas' movement animations intact. If you're not a fan of the snapping in Medium but don't want it to be all Sora animations, this is the patch for you!
+
+Use this for most tournament legality! Make sure to place it above the "Roxas Mod 3.0", but below any randomizer seeds or mods.
